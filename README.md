@@ -1,7 +1,7 @@
 # RGB LED Control
 
 This project allows you to control an RGB LED strip using a web interface. You can adjust the red, green, and blue values to create different colors and control the brightness of the LED strip.
-
+And before you ask i wanted sliders instead of a color picker!
 ## Hardware Requirements
 
 - ESP8266 microcontroller
